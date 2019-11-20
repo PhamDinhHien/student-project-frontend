@@ -10,7 +10,7 @@
     "build": "webpack"
   },
   "dependencies": {
-    "angular": "1.5.8",
+    "angular": "1.7.9",
     "angular-cookies": "1.5.8",
     "angular-local-storage": "^0.6.0",
     "angular-template-url-loader": "^2.0.0",
